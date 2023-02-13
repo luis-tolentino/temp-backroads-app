@@ -22,7 +22,7 @@ const Tours = () => {
                 <div className="tour-footer">
                   <p>
                     <span>
-                      <i className="fas fa-map"></i>
+                      <i className={icon}></i>
                     </span>{' '}
                     {country}
                   </p>
