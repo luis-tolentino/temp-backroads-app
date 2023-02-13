@@ -230,7 +230,7 @@ Hero
 }
 
 .hero-btn:hover {
-  background: transparent;
+  background: red;
   color: var(--clr-white);
   border-color: var(--clr-white);
 }
